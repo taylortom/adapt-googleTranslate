@@ -1,0 +1,17 @@
+{
+    "name": "adapt-googleTranslate",
+    "version": "0.0.1",
+    "framework": ">=2.2.0",
+    "homepage": "https://github.com/taylortom/adapt-googleTranslate",
+    "issues": "https://github.com/taylortom/adapt-googleTranslate/issues/new",
+    "displayName": "Google Translate",
+    "extension": "googleTranslate",
+    "description": "An extension to enable auto-translation of a course using Google Translate",
+    "main": "/js/adapt-googleTranslate.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3",
+    "targetAttribute": "_googleTranslate"
+}
