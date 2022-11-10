@@ -10,6 +10,6 @@ define(['core/js/adapt'], function(Adapt) {
 
   Adapt.on('navigationView:postRender', function() {
     var view = (new GoogleTranslateView()).render();
-    $('.navigation-inner').append(view.$el);
+    $('.nav__inner').append(view.$el);
   });
 });
