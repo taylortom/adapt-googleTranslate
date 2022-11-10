@@ -1,7 +1,7 @@
 {
     "name": "adapt-googleTranslate",
-    "version": "0.0.1",
-    "framework": ">=2.2.0",
+    "version": "0.0.2",
+    "framework": ">=5",
     "homepage": "https://github.com/taylortom/adapt-googleTranslate",
     "issues": "https://github.com/taylortom/adapt-googleTranslate/issues/new",
     "displayName": "Google Translate",
